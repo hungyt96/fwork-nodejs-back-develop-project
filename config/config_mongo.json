@@ -1,0 +1,8 @@
+{
+  "user": "mongo",
+  "host": "mongodb://localhost/fwork",
+  "password": "mongo",
+  "database": "fwork",
+  "port": 1234,
+  "url": "mongodb://localhost/fwork"
+}
