@@ -19,7 +19,7 @@
     "mongodb": "^3.2.7",
     "mongoose": "^5.6.3",
     "morgan": "^1.9.1",
-    "nodemailer": "^6.2.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.1",
     "object-copy": "^1.0.0",
     "passport": "^0.4.0",
