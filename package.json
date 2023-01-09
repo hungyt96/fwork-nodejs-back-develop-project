@@ -23,6 +23,6 @@
     "nodemon": "^1.19.1",
     "object-copy": "^1.0.0",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0"
+    "passport-jwt": "^4.0.1"
   }
 }
